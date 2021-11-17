@@ -1,7 +1,7 @@
 - 👋 Hi, I’m pain
 - 👀 I’m interested in linux repositories
 - 🌱 I’m currently learning server security and management
-- 💞️ I’m looking to collaborate on destrying world
+- 💞️ I’m looking to collaborate on destroying world
 - 📫 How to reach me ashutoshrana20feb2002@gmail.com
 
 <!---
